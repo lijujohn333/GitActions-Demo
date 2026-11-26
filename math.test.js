@@ -1,4 +1,4 @@
-const {add} = require('./math');
+const {add} = require('./Math');
 const test = require('node:test');
 const assert = require('node:assert');
 test('add function',()=>{
